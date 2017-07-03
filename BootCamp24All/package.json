@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp24all",
+  "version": "1.0.0",
+  "description": "andela bootcamp training",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chykehyman/SLC-24.git"
+  },
+  "author": "chinwoke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chykehyman/SLC-24/issues"
+  },
+  "homepage": "https://github.com/chykehyman/SLC-24#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
